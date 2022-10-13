@@ -1,0 +1,15 @@
+D:\Polymorphism\RunTime\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.exe
+D:\Polymorphism\RunTime\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.deps.json
+D:\Polymorphism\RunTime\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.runtimeconfig.json
+D:\Polymorphism\RunTime\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.dll
+D:\Polymorphism\RunTime\OperatorOverLoading\bin\Debug\net6.0\OperatorOverLoading.pdb
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.AssemblyReference.cache
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfoInputs.cache
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.AssemblyInfo.cs
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.csproj.CoreCompileInputs.cache
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.dll
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\refint\OperatorOverLoading.dll
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.pdb
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\OperatorOverLoading.genruntimeconfig.cache
+D:\Polymorphism\RunTime\OperatorOverLoading\obj\Debug\net6.0\ref\OperatorOverLoading.dll

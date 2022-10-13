@@ -1,0 +1,15 @@
+D:\C#\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.exe
+D:\C#\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.deps.json
+D:\C#\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.runtimeconfig.json
+D:\C#\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.dll
+D:\C#\CollegeAdmission\bin\Debug\net6.0\CollegeAdmission.pdb
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.csproj.AssemblyReference.cache
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.AssemblyInfoInputs.cache
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.AssemblyInfo.cs
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.csproj.CoreCompileInputs.cache
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.dll
+D:\C#\CollegeAdmission\obj\Debug\net6.0\refint\CollegeAdmission.dll
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.pdb
+D:\C#\CollegeAdmission\obj\Debug\net6.0\CollegeAdmission.genruntimeconfig.cache
+D:\C#\CollegeAdmission\obj\Debug\net6.0\ref\CollegeAdmission.dll

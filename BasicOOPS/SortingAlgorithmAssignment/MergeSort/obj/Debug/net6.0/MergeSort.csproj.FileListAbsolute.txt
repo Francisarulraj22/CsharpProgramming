@@ -1,0 +1,15 @@
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\bin\Debug\net6.0\MergeSort.exe
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\bin\Debug\net6.0\MergeSort.runtimeconfig.json
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\bin\Debug\net6.0\MergeSort.dll
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.dll
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\MergeSort.genruntimeconfig.cache
+D:\Francisarulraj_SortingAlgorithmAssignment\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll

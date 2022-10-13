@@ -1,0 +1,15 @@
+D:\Abstraction\SealedMethods\bin\Debug\net6.0\SealedMethods.exe
+D:\Abstraction\SealedMethods\bin\Debug\net6.0\SealedMethods.deps.json
+D:\Abstraction\SealedMethods\bin\Debug\net6.0\SealedMethods.runtimeconfig.json
+D:\Abstraction\SealedMethods\bin\Debug\net6.0\SealedMethods.dll
+D:\Abstraction\SealedMethods\bin\Debug\net6.0\SealedMethods.pdb
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.csproj.AssemblyReference.cache
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.AssemblyInfoInputs.cache
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.AssemblyInfo.cs
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.csproj.CoreCompileInputs.cache
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.dll
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\refint\SealedMethods.dll
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.pdb
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\SealedMethods.genruntimeconfig.cache
+D:\Abstraction\SealedMethods\obj\Debug\net6.0\ref\SealedMethods.dll
